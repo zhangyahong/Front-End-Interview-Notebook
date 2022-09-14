@@ -11,24 +11,6 @@
 
 笔记不是从网上到处复制粘贴拼凑而来，虽然有少部分内容会直接引入书上原文或者官方技术文档的原文，但是没有直接摘抄其他人的博客文章，只做了参考，参考的文章会在最后给出链接。
 
-### 内推信息
-
-阿里巴巴淘系前端 2021 年春季校招，本次招聘面向 2022 年应届毕业生，base 为杭州西溪园区。
-
-需要内推的同学请将简历发送至 zhouyou.world@outlook.com 
-
-**邮件主题：**【淘系内推】姓名_学校_电话
-
-**简历名称格式：** 姓名_学校_电话.pdf
-
-所有邮件每晚我会统一回复，感兴趣的同学可以加我的微信 ZY605555926，面试进度和面试相关的问题我都可以帮大家解答~
-
-### 如何贡献
-
-笔记内容是笔者一个字一个字打上去的，难免会有一些笔误，如果发现笔误可直接在相应文档进行编辑修改。
-
-欢迎提交对本仓库的改进建议~
-
 Contributors: 
 
 <a href="https://github.com/Wscats">
@@ -67,17 +49,3 @@ Contributors:
 <a href="https://github.com/YooHoeh">
     <img src="https://avatars.githubusercontent.com/u/33681610?s=460&u=476c45236abfabd1cf15d7770ea12923bd11b2fa&v=4" width="50px">
 </a>
-
-### 授权相关
-
-虽然没有加开源协议，但是允许非商业性使用。
-
-转载使用请注明出处，谢谢！
-
-### 排版指南
-
-笔记内容按照 [中文文案排版指北](http://mazhuang.org/wiki/chinese-copywriting-guidelines/) 进行排版，以保证内容的可读性。
-
-### 声明
-
-本仓库不参与商业行为，不向读者收取任何费用。(This repository is not engaging in business activities, and does not charge readers any fee.)
